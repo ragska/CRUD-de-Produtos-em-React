@@ -1,0 +1,13 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "nome": "Notebook",
+            "descricao": "Um notebook potente",
+            "preco": 2500.00,
+            "ativo": true,
+            "data_criacao": "2023-01-01",
+            "data_atualizacao": "2023-01-01"
+        }
+    ]
+}
