@@ -11,12 +11,12 @@ function App() {
       <AppNavBar />
       <div className="d-flex">
         <Sidebar />
-        <main className="flex-grow-1">
+        <main className="flex-grow-1 p-3">
           <Routes>
             <Route path="/" element={<Dashboard />} />
             <Route path="/products" element={<Products />} />
             <Route path="/products/new" element={<ProductForm />} />
-            <Route path="/products/:id" element={<ProductForm />} />
+            <Route path="/products/edit/:id" element={<ProductForm />} />
           </Routes>
         </main>
       </div>

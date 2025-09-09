@@ -10,7 +10,7 @@ export default function Sidebar() {
                     <Link to="/">Dashboard</Link>
                 </li>
                 <li>
-                    <Link to="/produtos">Produtos</Link>
+                    <Link to="/products">Produtos</Link>
                 </li>
             </ul>
         </div>

@@ -1,13 +1,20 @@
 {
-    "products": [
-        {
-            "id": 1,
-            "nome": "Notebook",
-            "descricao": "Um notebook potente",
-            "preco": 2500.00,
-            "ativo": true,
-            "data_criacao": "2023-01-01",
-            "data_atualizacao": "2023-01-01"
-        }
-    ]
+  "products": [
+    {
+      "id": "03fa",
+      "nome": "mesa",
+      "preco": 500,
+      "ativo": true,
+      "data_criacao": "2025-09-09",
+      "data_atualizacao": "2025-09-09"
+    },
+    {
+      "id": "e1d9",
+      "nome": "lapis",
+      "preco": 10,
+      "ativo": true,
+      "data_criacao": "2025-09-09",
+      "data_atualizacao": "2025-09-09"
+    }
+  ]
 }
